@@ -1,6 +1,6 @@
 # Ex.No: 6  Implementation of Jumping  behaviour- Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### Name : Pradeepraj P                                                                            
+### Reg No : 212222240073 
 ### AIM: 
 To write a program to simulate the process of jumping in Unity.
 ### Algorithm:
