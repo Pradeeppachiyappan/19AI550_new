@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of Flappy bird game
-### DATE:                                                                            
-### REGISTER NUMBER : 212222240048
+### Name : Pradeepraj P                                                                            
+### Reg NO : 212222240073
 ### AIM: 
 To develop a game flappy bird in Unity 
 ### Algorithm:
