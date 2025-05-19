@@ -1,6 +1,6 @@
 # Ex.No: 3  Basic movements in Unity 
-### DATE:                                                           
-### REGISTER NUMBER : 212222240048
+### Name : Pradeepraj P                                                           
+### Reg No : 212222240073
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
