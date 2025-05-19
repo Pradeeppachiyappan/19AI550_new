@@ -1,4 +1,4 @@
-# Ex.Nos:7  Implementation of Simple Pathfinding with Obstacles
+# Ex.No:7  Implementation of Simple Pathfinding with Obstacles
 ### Name : Pradeepraj P                                                                            
 ### Reg No : 212222240073
 ### AIM: 
